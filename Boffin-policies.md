@@ -32,7 +32,8 @@
 
 I have read the above and agree to follow the lab policies and procedures of the CSE department.  I acknowledge that failure to follow safe lab practices or failure to use required PPE in the lab can result in loss of lab privileges and/or invocation of university disciplinary procedures.
 
- | | | 
-Printed Name | UID | Student Signature | Date
+|              |     |                   |               |
+| ----------------------------- | :---------------: | :----------------------------------------------- | ---------: | 
+| Printed Name | UID | Student Signature | Date          |
 
 
